@@ -24,3 +24,6 @@ HTTP authentication schemes provided in Django Rest Framework.
 6. Start the Django application.
     `./manage.py runserver`
 
+
+## Source
+All code is from CMPUT404 resourses/TAs.
